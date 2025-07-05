@@ -3,7 +3,7 @@
 	"compiler-frontend-variant" : "GNU",
 	"compiler-id" : "Clang",
 	"compiler-simulate-id" : "",
-	"config" : "",
+	"config" : "Debug",
 	"cxx-modules" : 
 	{
 		"CMakeFiles/MyCppProject.dir/src/utilities.ixx.o" : 

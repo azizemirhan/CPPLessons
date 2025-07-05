@@ -3,13 +3,13 @@
   "spdxVersion": "SPDX-2.2",
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
-  "documentNamespace": "https://spdx.org/spdxdocs/fmt-arm64-osx-11.0.2#1-d0fe7e44-79db-420b-abaf-c765f0a275bb",
-  "name": "fmt:arm64-osx@11.0.2#1 83437f6d9ecf8a87d63bc0197e313be4c805a77b2ffc8c13bde9360f4551bd88",
+  "documentNamespace": "https://spdx.org/spdxdocs/fmt-arm64-osx-11.0.2#1-04d8da4e-9694-48ce-9adb-74a04a977734",
+  "name": "fmt:arm64-osx@11.0.2#1 45dd18b110919ecfb5627e92ff57fec7e86da9898ce3b76c18157fe7bd372fdd",
   "creationInfo": {
     "creators": [
       "Tool: vcpkg-2025-06-20-ef7c0d541124bbdd334a03467e7edb6c3364d199"
     ],
-    "created": "2025-07-05T12:52:27Z"
+    "created": "2025-07-05T12:57:34Z"
   },
   "relationships": [
     {
@@ -94,7 +94,7 @@
     {
       "name": "fmt:arm64-osx",
       "SPDXID": "SPDXRef-binary",
-      "versionInfo": "83437f6d9ecf8a87d63bc0197e313be4c805a77b2ffc8c13bde9360f4551bd88",
+      "versionInfo": "45dd18b110919ecfb5627e92ff57fec7e86da9898ce3b76c18157fe7bd372fdd",
       "downloadLocation": "NONE",
       "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",

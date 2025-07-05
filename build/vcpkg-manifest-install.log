@@ -1,27 +1,10 @@
 Detecting compiler hash for triplet arm64-osx...
-Compiler found: /opt/homebrew/opt/llvm/bin/clang++
-The following packages will be built and installed:
+Compiler found: /usr/bin/c++
+The following packages are already installed:
     fmt:arm64-osx@11.0.2#1
     spdlog:arm64-osx@1.15.3
   * vcpkg-cmake:arm64-osx@2024-04-23
   * vcpkg-cmake-config:arm64-osx@2024-05-23
-Additional packages (*) will be modified to complete this operation.
-Restored 4 package(s) from /Users/azizemirhanozdemir/.cache/vcpkg/archives in 68.5 ms. Use --debug to see more details.
-Installing 1/4 vcpkg-cmake-config:arm64-osx@2024-05-23...
-Elapsed time to handle vcpkg-cmake-config:arm64-osx: 2.19 ms
-vcpkg-cmake-config:arm64-osx package ABI: dd7f015ceebc2ca7fe9aa57e8dc980dd3b57f3b90bf9faf080f52465818fe0dd
-Installing 2/4 vcpkg-cmake:arm64-osx@2024-04-23...
-Elapsed time to handle vcpkg-cmake:arm64-osx: 2.74 ms
-vcpkg-cmake:arm64-osx package ABI: 30d4d622035ba04bc90e36dae3330f1a15efbe78b34c522d74d65b1aef33e7e4
-Installing 3/4 fmt:arm64-osx@11.0.2#1...
-Elapsed time to handle fmt:arm64-osx: 8.9 ms
-fmt:arm64-osx package ABI: 83437f6d9ecf8a87d63bc0197e313be4c805a77b2ffc8c13bde9360f4551bd88
-Installing 4/4 spdlog:arm64-osx@1.15.3...
-Elapsed time to handle spdlog:arm64-osx: 31.1 ms
-spdlog:arm64-osx package ABI: 2af1a372ccfd12b0d84d70ec1d0851707c3c382858f86b19cf9ed0ab49f8b75d
-Installed contents are licensed to you by owners. Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
-Packages installed in this vcpkg installation declare the following licenses:
-MIT
 The package fmt provides CMake targets:
 
     find_package(fmt CONFIG REQUIRED)
@@ -40,4 +23,4 @@ The package spdlog provides CMake targets:
     find_package(spdlog CONFIG REQUIRED)
     target_link_libraries(main PRIVATE spdlog::spdlog_header_only)
 
-All requested installations completed successfully in: 46.1 ms
+All requested installations completed successfully in: 80.2 us
