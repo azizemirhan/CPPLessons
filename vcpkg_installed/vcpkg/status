@@ -1,0 +1,33 @@
+Package: vcpkg-cmake-config
+Version: 2024-05-23
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: dd7f015ceebc2ca7fe9aa57e8dc980dd3b57f3b90bf9faf080f52465818fe0dd
+Status: install ok installed
+
+Package: vcpkg-cmake
+Version: 2024-04-23
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 30d4d622035ba04bc90e36dae3330f1a15efbe78b34c522d74d65b1aef33e7e4
+Status: install ok installed
+
+Package: fmt
+Version: 11.0.2
+Port-Version: 1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 83437f6d9ecf8a87d63bc0197e313be4c805a77b2ffc8c13bde9360f4551bd88
+Description: {fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams.
+Status: install ok installed
+
+Package: spdlog
+Version: 1.15.3
+Depends: fmt, vcpkg-cmake, vcpkg-cmake-config
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 2af1a372ccfd12b0d84d70ec1d0851707c3c382858f86b19cf9ed0ab49f8b75d
+Description: Very fast, header-only/compiled, C++ logging library.
+Status: install ok installed
+

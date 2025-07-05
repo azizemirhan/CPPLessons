@@ -1,0 +1,14 @@
+{
+  "/opt/homebrew/opt/llvm/bin/clang" : 
+  {
+    "hash" : "af800280294664a36e6e56e9fc0959448c7e63cd",
+    "size" : 153784,
+    "timestamp" : 1749790472
+  },
+  "/opt/homebrew/opt/llvm/bin/clang++" : 
+  {
+    "hash" : "af800280294664a36e6e56e9fc0959448c7e63cd",
+    "size" : 153784,
+    "timestamp" : 1749790472
+  }
+}

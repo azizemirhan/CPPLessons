@@ -1,0 +1,19 @@
+{
+	"modules" : 
+	{
+		"utilities" : 
+		{
+			"bmi" : "/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics/build/CMakeFiles/MyCppProject.dir/utilities.pcm",
+			"is-private" : true
+		}
+	},
+	"references" : 
+	{
+		"utilities" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/MyCppProject.dir/utilities.pcm"
+		}
+	},
+	"usages" : {}
+}

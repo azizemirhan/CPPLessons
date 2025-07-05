@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/MyCppProject.dir/src/utilities.ixx.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "utilities",
+          "source-path": "/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics/src/utilities.ixx"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

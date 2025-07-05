@@ -1,0 +1,3 @@
+/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics/build/CMakeFiles/MyCppProject.dir
+/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics/build/CMakeFiles/edit_cache.dir
+/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics/build/CMakeFiles/rebuild_cache.dir

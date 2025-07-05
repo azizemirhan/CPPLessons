@@ -1,0 +1,16 @@
+# ninja log v7
+1	100	1751720455045915522	CMakeFiles/MyCppProject.dir/src/main.cpp.o.ddi	1b32f3a8cbc1e549
+1	164	1751720455046145019	CMakeFiles/MyCppProject.dir/src/utilities.ixx.o.ddi	1ce592b60cc0fa57
+164	173	1751720455217698854	CMakeFiles/MyCppProject.dir/CXX.dd	b938091301a5c1ed
+164	173	1751720455217698854	/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics/build/CMakeFiles/MyCppProject.dir/CXXModules.json	b938091301a5c1ed
+164	173	1751720455217698854	CMakeFiles/MyCppProject.dir/src/main.cpp.o.modmap	b938091301a5c1ed
+164	173	1751720455217698854	CMakeFiles/MyCppProject.dir/src/utilities.ixx.o.modmap	b938091301a5c1ed
+173	767	1751720455809695161	CMakeFiles/MyCppProject.dir/src/utilities.ixx.o	500f1d994f6ade86
+173	767	1751720455809695161	CMakeFiles/MyCppProject.dir/utilities.pcm	500f1d994f6ade86
+8	306	1751720519165010171	CMakeFiles/MyCppProject.dir/src/main.cpp.o.ddi	1b32f3a8cbc1e549
+306	316	1751720519462945785	CMakeFiles/MyCppProject.dir/CXX.dd	b938091301a5c1ed
+306	316	1751720519462945785	/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics/build/CMakeFiles/MyCppProject.dir/CXXModules.json	b938091301a5c1ed
+306	316	1751720519462945785	CMakeFiles/MyCppProject.dir/src/main.cpp.o.modmap	b938091301a5c1ed
+306	316	1751720519462945785	CMakeFiles/MyCppProject.dir/src/utilities.ixx.o.modmap	b938091301a5c1ed
+316	669	1751720519472990255	CMakeFiles/MyCppProject.dir/src/main.cpp.o	dfef4e24f5c87283
+669	793	1751720519825837142	MyCppProject	5e665d133258d4d1

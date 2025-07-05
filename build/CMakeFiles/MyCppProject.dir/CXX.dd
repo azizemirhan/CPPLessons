@@ -1,0 +1,6 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/MyCppProject.dir/src/main.cpp.o: dyndep | CMakeFiles/MyCppProject.dir/utilities.pcm
+
+build CMakeFiles/MyCppProject.dir/src/utilities.ixx.o | CMakeFiles/MyCppProject.dir/utilities.pcm: dyndep
+  restat = 1
+

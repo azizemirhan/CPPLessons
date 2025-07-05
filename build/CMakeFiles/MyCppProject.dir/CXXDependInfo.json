@@ -1,0 +1,42 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/MyCppProject.dir/src/utilities.ixx.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "src",
+			"source" : "/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics/src/utilities.ixx",
+			"type" : "CXX_MODULES",
+			"visibility" : "PRIVATE"
+		}
+	},
+	"database-info" : null,
+	"dir-cur-bld" : "/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics/build",
+	"dir-cur-src" : "/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics",
+	"dir-top-bld" : "/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics/build",
+	"dir-top-src" : "/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"vcpkg_installed/arm64-osx/include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics/build/CMakeFiles/MyCppProject.dir",
+	"sources" : 
+	{
+		"CMakeFiles/MyCppProject.dir/src/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/azizemirhanozdemir/Desktop/C++/lesson1/FirstCppProgamBasics/src/main.cpp"
+		}
+	}
+}
